@@ -1,0 +1,5 @@
+jupyter nbconvert --to html EvidenciaEstadistica_2.ipynb
+
+
+X1 -> X12
+'ID', 'Nombre Lago', 'Alcalinidad', 'PH', 'Calcio', 'Clorofila', 'Concentracion Mid Hg', 'Num Peces Lago', 'Min Concentracion Hg', 'Max Concentracion Hg', 'Concentracion Hg 3 Years', 'Edad Peces'
